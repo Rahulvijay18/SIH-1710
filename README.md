@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 16.12.25
+## Register Number:212224040017
+## Name: Ahamed shine A
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
@@ -11,16 +11,97 @@ Background: Railway stations are complex environments with numerous facilities a
 Ministry of Railway
 
 ## Idea
+Idea Overview
 
+The proposed solution, RailNav Smart Guide, is a smart indoor navigation system designed specifically for railway stations. It helps passengers easily locate platforms, ticket counters, restrooms, food courts, waiting halls, exits, and emergency facilities.
+
+The system uses interactive digital maps, real-time navigation, and accessibility-focused features to improve passenger movement inside complex station environments. It works through mobile applications and station-installed digital kiosks, ensuring access for all types of users.
+
+## Key Features
+ Passenger-Centric Features
+
+Indoor Navigation: Step-by-step directions inside railway stations
+
+Facility Search: Find platforms, toilets, lifts, food courts, exits, and enquiry desks
+
+3D Interactive Maps: Easy visualization of station layout
+
+Voice-Guided Navigation: Audio instructions for visually impaired passengers
+
+Multilingual Support: English, Hindi, and regional languages
+
+Offline Mode: Basic navigation when internet connectivity is poor
+
+Accessibility Routes: Wheelchair-friendly path suggestions
+
+ Digital Kiosk Features
+
+Touch-screen navigation interface
+
+QR code to transfer route from kiosk to mobile phone
+
+Large icons and high-contrast UI for senior citizens
+
+Admin Features
+
+Real-time update of platform changes
+
+Facility relocation updates
+
+Emergency alert broadcasting
+
+Map and layout management dashboard
 
 ## Proposed Solution / Architecture Diagram
+<img width="872" height="480" alt="Screenshot 2025-12-16 130409" src="https://github.com/user-attachments/assets/06185562-4364-4434-8ec6-e2aba71d1df1" />
 
 
 ## Use Cases
+<img width="873" height="376" alt="Screenshot 2025-12-16 130424" src="https://github.com/user-attachments/assets/45457707-95a8-452e-af6e-a3860ffe9b10" />
 
 
 ## Technology Stack
+| Layer      | Technology             |
+| ---------- | ---------------------- |
+| Mobile App | Flutter / React Native |
+| Backend    | Node.js / Python       |
+| Database   | PostgreSQL / Firebase  |
+| Maps       | Indoor Mapping API     |
+| Voice      | Text-to-Speech API     |
+| Kiosk UI   | Web-based Touch UI     |
+
 
 
 ## Dependencies
+Software Dependencies
+
+Flutter SDK / Node.js Runtime
+
+Map Rendering Libraries
+
+Firebase SDK
+
+REST API Frameworks
+
+Text-to-Speech Libraries
+
+Hardware Dependencies
+
+Digital Touch-Screen Kiosks
+
+QR Code Scanners (optional)
+
+Station Wi-Fi / Local Network
+
+Beacons or Wi-Fi positioning (future scope)
+
+Data Dependencies
+
+Station layout maps
+
+Facility location database
+
+Train schedule & platform data
+
+Accessibility route metadata
 
