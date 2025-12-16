@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date: 16.12.25
-## Register Number:212224040017
-## Name: Ahamed shine A
+### Register Number: 212223040164
+### Name: RAHUL VIJAY V
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
@@ -105,3 +105,6 @@ Train schedule & platform data
 
 Accessibility route metadata
 
+## Result
+
+The proposed solution RailNav Smart Guide successfully addresses the navigation challenges faced by passengers in large railway stations. By combining indoor digital maps, real-time navigation, voice guidance, and accessibility-focused routes, the system ensures that passengers can quickly and easily locate station facilities and platforms. The integration of mobile applications and digital kiosks makes the solution inclusive for all user groups, including senior citizens and visually impaired passengers. Overall, the solution improves passenger experience, reduces confusion and congestion, saves time, and enhances accessibility, making railway stations more user-friendly and efficient.
